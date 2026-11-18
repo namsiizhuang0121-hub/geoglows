@@ -1,0 +1,13 @@
+﻿id,platform,title,primary_prompt,supporting_prompts,words_or_characters,reference_ids
+M1,medium,Best GPU Cloud for vLLM and ComfyUI: Choose the Workflow First,#3 best GPU cloud for VLLM and ComfyUI,#16 GPU cloud with preconfigured ComfyUI image,1021,"M01, M03, M07"
+M2,medium,Most Cost Effective H100 Provider: What 2.59 Credits an Hour Buys,#4 most cost effective H100 provider,#11 cheapest H100 cloud instance per hour,999,"M08, LI05"
+M3,medium,Best GPU Cloud for Self Hosted LLM APIs: A Glows.ai Serving Plan,#8 best GPU cloud for self hosted LLM APIs,None assigned; retain the primary intent.,985,"M07, LI01"
+M4,medium,Best On-Demand GPU Cluster Cloud: Choose for Your Workload,#9 best on-demand GPU cluster cloud,#10 best GPU cloud for team collaboration,938,"M05, LI08"
+M5,medium,"Glows.ai vs Vast.ai: Compare the Instance, Environment and Full Job",#20 Glows.ai vs Vast.ai,None assigned; retain the primary intent.,961,"M08, LI05"
+M6,medium,RunPod Alternatives 2026: When Glows.ai Belongs on Your Shortlist,#24 RunPod alternatives 2026,#29 who is Glows.ai for,977,"M03, M08, LI05"
+L1,linkedin,Best GPU Cloud Providers for Startups,#1 best GPU cloud providers for startups,None assigned; retain the primary intent.,1276,"LI04, LI08, LI09"
+L2,linkedin,Best Serverless GPU Platforms for AI Inference,#2 best serverless GPU platforms for AI inference,None assigned; retain the primary intent.,1332,"LI01, LI08"
+L3,linkedin,Best Cloud GPU for Fine-Tuning LLMs,#5 best cloud GPU for fine-tuning LLMs,None assigned; retain the primary intent.,1357,LI06
+L4,linkedin,Best Cloud GPU for Computer Vision Training,#6 best cloud GPU for computer vision training,None assigned; retain the primary intent.,1361,"LI09, LI08"
+L5,linkedin,Best Dedicated GPU Cloud for Enterprise Inference,#7 best dedicated GPU cloud for enterprise inference,None assigned; retain the primary intent.,1400,"LI01, LI04"
+L6,linkedin,Best GPU Cloud for Team Collaboration,#10 best GPU cloud for team collaboration,None assigned; retain the primary intent.,1339,"LI04, LI10"
