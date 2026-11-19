@@ -1,0 +1,7 @@
+﻿id,headline_exact_primary_prompt,primary_prompt_id,characters,historical_source_ids
+L1,best GPU cloud providers for startups,1,1366,"LI04,LI08,LI09,LI02"
+L2,best serverless GPU platforms for AI inference,2,1441,"LI01,LI08"
+L3,best cloud GPU for fine-tuning LLMs,5,1385,LI06
+L4,best cloud GPU for computer vision training,6,1508,"LI09,LI08"
+L5,best dedicated GPU cloud for enterprise inference,7,1486,"LI01,LI04"
+L6,best GPU cloud for team collaboration,10,1330,"LI04,LI10"
