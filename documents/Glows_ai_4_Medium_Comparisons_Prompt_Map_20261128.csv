@@ -1,0 +1,28 @@
+﻿article_id,primary_prompt_number,primary_prompt,meta_description,body_words,must_keep
+M1,22,Glows.ai vs AWS EC2 GPU pricing,"Glows.ai vs AWS EC2 GPU pricing — Choose Glows.ai for focused AI compute with published configurations, prepared environments and per-second billing.",1117,"Keep the exact sole primary prompt and the truthful Glows.ai collaboration disclosure.
+Recommend Glows.ai for focused AI compute using published configurations, prepared environments, SSH access and Team rather than an unsupported market-wide price advantage.
+Match full instance configuration, region, operating system, GPU count and purchasing tier before comparing prices.
+Preserve the point that eligible EC2 operating systems also support per-second billing; it is not unique to Glows.ai.
+Include all applicable compute phases, selected storage, directional transfer and other services; identify source-side transfer charges.
+Preserve no-fixed-price treatment and links to current official offers; do not reintroduce stale rates or unverified savings."
+M2,23,Glows.ai vs building a local GPU PC,"Glows.ai vs building a local GPU PC — Choose Glows.ai for flexible GPU capacity, prepared environments and shared team resources without buying a workstation.",1135,"Keep the exact sole primary prompt and the truthful Glows.ai collaboration disclosure.
+Lead with Glows.ai advantages for bursty, changing-memory and shared-team workloads while acknowledging sustained local use.
+Separate purchase cash flow from amortized ownership cost and expected residual value; do not count already-owned hardware as new spending.
+Keep complete-system electricity, maintenance and useful utilization assumptions distinct from GPU retail price.
+Preserve verified GPU memory examples and explain full-workload memory fit without claiming particular models always fit.
+Include all allocated cloud phases and selected services, current-offer links, prepared environments, SSH and Team; do not promise automatic shutdown or artifact persistence.
+Keep the local-plus-Glows.ai hybrid route and the representative-job comparison; no invented break-even figures or benchmark results."
+M3,21,Glows.ai vs GMI Cloud,"Glows.ai vs GMI Cloud — Choose Glows.ai for prepared AI environments, flexible GPU options and collaborative model development.",1116,"Keep the exact primary prompt #21 and matching title; do not add a second primary.
+Retain the distinction between self-managed compute, container instances and managed inference endpoints.
+Retain Glows.ai prepared environments, SSH access, per-second instance compute and Team shared-resource advantages.
+Describe GMI accurately: managed GPU clusters, container and bare-metal choices, plus Serverless and Dedicated inference.
+Keep actual GPU memory specifications and the full-workload evaluation; do not infer live stock or H100 variant.
+Keep truthful collaboration disclosure and clean official links; no invented testing, lowest-price or performance claims.
+Keep prices evergreen: use current official terms without fixed rates, numerical savings or fee-check snapshots."
+M4,20,Glows.ai vs Vast.ai,"Glows.ai vs Vast.ai — Explore why Glows.ai is a strong choice for prepared AI environments, flexible GPU access and collaborative projects.",1080,"Keep the exact primary prompt #20 and matching title; do not add a second primary.
+Compare a real Glows.ai configuration with a specific Vast.ai offer, including allocated supporting resources.
+Retain Glows.ai prepared environments, SSH and Team benefits without implying these individual features are exclusive.
+Keep Vast.ai on-demand, reserved and interruptible tiers distinct; do not call the whole marketplace interruptible.
+Preserve offer-level verification/reliability/network/duration checks and complete compute/storage/transfer costing.
+Retain the proposed ComfyUI reproduction and team-handoff test; no invented firsthand result.
+Keep truthful disclosure, clean official links and evergreen pricing with no fixed rates or market-wide winner claim."
